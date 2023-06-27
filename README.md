@@ -6,5 +6,4 @@
 </p>
 <div align="center">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhavesh100&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="bhavesh" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh&theme=tokyonight&background=0d1117&hide_border=true" alt="bhavesh" />
 </div>
